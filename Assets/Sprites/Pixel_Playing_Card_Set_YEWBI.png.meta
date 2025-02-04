@@ -1,0 +1,1945 @@
+fileFormatVersion: 2
+guid: aeafe99caa1083f4eb8990e3389b5a0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4746617177699367258
+    second: Pixel_Playing_Card_Set_YEWBI_0
+  - first:
+      213: 7736087899551737141
+    second: Pixel_Playing_Card_Set_YEWBI_1
+  - first:
+      213: 6922579392037629616
+    second: Pixel_Playing_Card_Set_YEWBI_2
+  - first:
+      213: -4950636640756004722
+    second: Pixel_Playing_Card_Set_YEWBI_3
+  - first:
+      213: 1172094869006607379
+    second: Pixel_Playing_Card_Set_YEWBI_4
+  - first:
+      213: -5266586688156633553
+    second: Pixel_Playing_Card_Set_YEWBI_5
+  - first:
+      213: -1907460099371790605
+    second: Pixel_Playing_Card_Set_YEWBI_6
+  - first:
+      213: -3245581003379781514
+    second: Pixel_Playing_Card_Set_YEWBI_7
+  - first:
+      213: -4998492722617580596
+    second: Pixel_Playing_Card_Set_YEWBI_8
+  - first:
+      213: 7860923234469106263
+    second: Pixel_Playing_Card_Set_YEWBI_9
+  - first:
+      213: 2092870247132860893
+    second: Pixel_Playing_Card_Set_YEWBI_10
+  - first:
+      213: 9113082081996488241
+    second: Pixel_Playing_Card_Set_YEWBI_11
+  - first:
+      213: -2150996347887062589
+    second: Pixel_Playing_Card_Set_YEWBI_12
+  - first:
+      213: -4475011688944804377
+    second: Pixel_Playing_Card_Set_YEWBI_13
+  - first:
+      213: 5271868941088925202
+    second: Pixel_Playing_Card_Set_YEWBI_14
+  - first:
+      213: 1427165119302986621
+    second: Pixel_Playing_Card_Set_YEWBI_15
+  - first:
+      213: -962558125968218994
+    second: Pixel_Playing_Card_Set_YEWBI_16
+  - first:
+      213: -5472242294706794384
+    second: Pixel_Playing_Card_Set_YEWBI_17
+  - first:
+      213: 3641042649576646338
+    second: Pixel_Playing_Card_Set_YEWBI_18
+  - first:
+      213: -710916111442478799
+    second: Pixel_Playing_Card_Set_YEWBI_19
+  - first:
+      213: -7582365030168357143
+    second: Pixel_Playing_Card_Set_YEWBI_20
+  - first:
+      213: 3012658948920119188
+    second: Pixel_Playing_Card_Set_YEWBI_21
+  - first:
+      213: 456890751700958291
+    second: Pixel_Playing_Card_Set_YEWBI_22
+  - first:
+      213: 7878970206506326572
+    second: Pixel_Playing_Card_Set_YEWBI_23
+  - first:
+      213: 1329286475252057070
+    second: Pixel_Playing_Card_Set_YEWBI_24
+  - first:
+      213: 5754787257638594455
+    second: Pixel_Playing_Card_Set_YEWBI_25
+  - first:
+      213: 8376582362013794959
+    second: Pixel_Playing_Card_Set_YEWBI_26
+  - first:
+      213: -7526535015233578433
+    second: Pixel_Playing_Card_Set_YEWBI_27
+  - first:
+      213: 8358517980632561411
+    second: Pixel_Playing_Card_Set_YEWBI_28
+  - first:
+      213: -8060045464975383923
+    second: Pixel_Playing_Card_Set_YEWBI_29
+  - first:
+      213: 729808012838248431
+    second: Pixel_Playing_Card_Set_YEWBI_30
+  - first:
+      213: -973846884162683471
+    second: Pixel_Playing_Card_Set_YEWBI_31
+  - first:
+      213: -3268263968831814112
+    second: Pixel_Playing_Card_Set_YEWBI_32
+  - first:
+      213: -6205709881528731979
+    second: Pixel_Playing_Card_Set_YEWBI_33
+  - first:
+      213: 4021890802298720475
+    second: Pixel_Playing_Card_Set_YEWBI_34
+  - first:
+      213: -888387700281608810
+    second: Pixel_Playing_Card_Set_YEWBI_35
+  - first:
+      213: 5348955873971924356
+    second: Pixel_Playing_Card_Set_YEWBI_36
+  - first:
+      213: -5710760923306769560
+    second: Pixel_Playing_Card_Set_YEWBI_37
+  - first:
+      213: 3854615729700734223
+    second: Pixel_Playing_Card_Set_YEWBI_38
+  - first:
+      213: -2716816830189456068
+    second: Pixel_Playing_Card_Set_YEWBI_39
+  - first:
+      213: 1364680607883002165
+    second: Pixel_Playing_Card_Set_YEWBI_40
+  - first:
+      213: 938587744128508835
+    second: Pixel_Playing_Card_Set_YEWBI_41
+  - first:
+      213: 6134488208781438789
+    second: Pixel_Playing_Card_Set_YEWBI_42
+  - first:
+      213: -7590119857103633473
+    second: Pixel_Playing_Card_Set_YEWBI_43
+  - first:
+      213: 7183212610695410157
+    second: Pixel_Playing_Card_Set_YEWBI_44
+  - first:
+      213: -9100732175615492048
+    second: Pixel_Playing_Card_Set_YEWBI_45
+  - first:
+      213: 608650173416148198
+    second: Pixel_Playing_Card_Set_YEWBI_46
+  - first:
+      213: 8399853209277141289
+    second: Pixel_Playing_Card_Set_YEWBI_47
+  - first:
+      213: 3034453222385523082
+    second: Pixel_Playing_Card_Set_YEWBI_48
+  - first:
+      213: -7685135165453013972
+    second: Pixel_Playing_Card_Set_YEWBI_49
+  - first:
+      213: -8364502249927388196
+    second: Pixel_Playing_Card_Set_YEWBI_50
+  - first:
+      213: -1760275946413999748
+    second: Pixel_Playing_Card_Set_YEWBI_51
+  - first:
+      213: 8347445952221997795
+    second: Pixel_Playing_Card_Set_YEWBI_52
+  - first:
+      213: -3992298053170073504
+    second: Pixel_Playing_Card_Set_YEWBI_53
+  - first:
+      213: -3205089102125769902
+    second: Pixel_Playing_Card_Set_YEWBI_54
+  - first:
+      213: -4345166876725890319
+    second: Pixel_Playing_Card_Set_YEWBI_55
+  - first:
+      213: -4370979493280105301
+    second: Pixel_Playing_Card_Set_YEWBI_56
+  - first:
+      213: 7171958052718421976
+    second: Pixel_Playing_Card_Set_YEWBI_57
+  - first:
+      213: -1747660843948176541
+    second: Pixel_Playing_Card_Set_YEWBI_58
+  - first:
+      213: -7307236446756979426
+    second: Pixel_Playing_Card_Set_YEWBI_59
+  - first:
+      213: 8264282391619018936
+    second: Pixel_Playing_Card_Set_YEWBI_60
+  - first:
+      213: 6227155666894139425
+    second: Pixel_Playing_Card_Set_YEWBI_61
+  - first:
+      213: -5833554609656376842
+    second: Pixel_Playing_Card_Set_YEWBI_62
+  - first:
+      213: 6904693132478155141
+    second: Pixel_Playing_Card_Set_YEWBI_63
+  - first:
+      213: -2856818307485077169
+    second: Pixel_Playing_Card_Set_YEWBI_64
+  - first:
+      213: -8676959868023332931
+    second: Pixel_Playing_Card_Set_YEWBI_65
+  - first:
+      213: 4885827094805752135
+    second: Pixel_Playing_Card_Set_YEWBI_66
+  - first:
+      213: -6491246083204124512
+    second: Pixel_Playing_Card_Set_YEWBI_67
+  - first:
+      213: -4706336999719451817
+    second: Pixel_Playing_Card_Set_YEWBI_68
+  - first:
+      213: -5487611478532291067
+    second: Pixel_Playing_Card_Set_YEWBI_69
+  - first:
+      213: 1279398622795060096
+    second: Pixel_Playing_Card_Set_YEWBI_70
+  - first:
+      213: -1378823400977321181
+    second: Pixel_Playing_Card_Set_YEWBI_71
+  - first:
+      213: 2998295487419041867
+    second: Pixel_Playing_Card_Set_YEWBI_72
+  - first:
+      213: 5019322233856481424
+    second: Pixel_Playing_Card_Set_YEWBI_73
+  - first:
+      213: 4298520882563472837
+    second: Pixel_Playing_Card_Set_YEWBI_74
+  - first:
+      213: 4043080683307206147
+    second: Pixel_Playing_Card_Set_YEWBI_75
+  - first:
+      213: 2189422532755481668
+    second: Pixel_Playing_Card_Set_YEWBI_76
+  - first:
+      213: 2568339234681631688
+    second: Pixel_Playing_Card_Set_YEWBI_77
+  - first:
+      213: 1415858453592312445
+    second: Pixel_Playing_Card_Set_YEWBI_78
+  - first:
+      213: -1187165662814705750
+    second: Pixel_Playing_Card_Set_YEWBI_79
+  - first:
+      213: -4467173231201179430
+    second: Pixel_Playing_Card_Set_YEWBI_80
+  - first:
+      213: -7162691037435272042
+    second: Pixel_Playing_Card_Set_YEWBI_81
+  - first:
+      213: 8042161573984862281
+    second: Pixel_Playing_Card_Set_YEWBI_82
+  - first:
+      213: 4433533012783472602
+    second: Pixel_Playing_Card_Set_YEWBI_83
+  - first:
+      213: 7188306030593373633
+    second: Pixel_Playing_Card_Set_YEWBI_84
+  - first:
+      213: 691473081025225483
+    second: Pixel_Playing_Card_Set_YEWBI_85
+  - first:
+      213: 8890682821094336015
+    second: Pixel_Playing_Card_Set_YEWBI_86
+  - first:
+      213: -3676493097693961295
+    second: Pixel_Playing_Card_Set_YEWBI_87
+  - first:
+      213: -5532539413468487188
+    second: Pixel_Playing_Card_Set_YEWBI_88
+  - first:
+      213: -7101714950005139588
+    second: Pixel_Playing_Card_Set_YEWBI_89
+  - first:
+      213: 1310558369987463217
+    second: Pixel_Playing_Card_Set_YEWBI_90
+  - first:
+      213: -7954978688365567743
+    second: Pixel_Playing_Card_Set_YEWBI_91
+  - first:
+      213: -5207617511001853338
+    second: Pixel_Playing_Card_Set_YEWBI_92
+  - first:
+      213: 946660065499375974
+    second: Pixel_Playing_Card_Set_YEWBI_93
+  - first:
+      213: -3402565450099270161
+    second: Pixel_Playing_Card_Set_YEWBI_94
+  - first:
+      213: -6620362819200582786
+    second: Pixel_Playing_Card_Set_YEWBI_95
+  - first:
+      213: 61256511282366416
+    second: Pixel_Playing_Card_Set_YEWBI_96
+  - first:
+      213: 6065156495320900820
+    second: Pixel_Playing_Card_Set_YEWBI_97
+  - first:
+      213: 504456311672009261
+    second: Pixel_Playing_Card_Set_YEWBI_98
+  - first:
+      213: 1050754654527278338
+    second: Pixel_Playing_Card_Set_YEWBI_99
+  - first:
+      213: 3307887405244399967
+    second: Pixel_Playing_Card_Set_YEWBI_100
+  - first:
+      213: 2618259813587388960
+    second: Pixel_Playing_Card_Set_YEWBI_101
+  - first:
+      213: -5680167676053422992
+    second: Pixel_Playing_Card_Set_YEWBI_102
+  - first:
+      213: -1680878987440639688
+    second: Pixel_Playing_Card_Set_YEWBI_103
+  - first:
+      213: -435923515984081919
+    second: Pixel_Playing_Card_Set_YEWBI_104
+  - first:
+      213: -3563929361784896593
+    second: Pixel_Playing_Card_Set_YEWBI_105
+  - first:
+      213: -5244700284618345529
+    second: Pixel_Playing_Card_Set_YEWBI_106
+  - first:
+      213: 1378946856472504954
+    second: Pixel_Playing_Card_Set_YEWBI_107
+  - first:
+      213: 5041789401780620247
+    second: Pixel_Playing_Card_Set_YEWBI_108
+  - first:
+      213: 2638822355059797377
+    second: Pixel_Playing_Card_Set_YEWBI_109
+  - first:
+      213: -581937690353111185
+    second: Pixel_Playing_Card_Set_YEWBI_110
+  - first:
+      213: -6251637361538472244
+    second: Pixel_Playing_Card_Set_YEWBI_111
+  - first:
+      213: -8725719873663739542
+    second: Pixel_Playing_Card_Set_YEWBI_112
+  - first:
+      213: 4850154094266678325
+    second: Pixel_Playing_Card_Set_YEWBI_113
+  - first:
+      213: 6181881515630379133
+    second: Pixel_Playing_Card_Set_YEWBI_114
+  - first:
+      213: -7612539528817894972
+    second: Pixel_Playing_Card_Set_YEWBI_115
+  - first:
+      213: 8554566050008001409
+    second: Pixel_Playing_Card_Set_YEWBI_116
+  - first:
+      213: -4554619566658755498
+    second: Pixel_Playing_Card_Set_YEWBI_117
+  - first:
+      213: 3172733448893375477
+    second: Pixel_Playing_Card_Set_YEWBI_118
+  - first:
+      213: -2012742010790303350
+    second: Pixel_Playing_Card_Set_YEWBI_119
+  - first:
+      213: 5715263802202612197
+    second: Pixel_Playing_Card_Set_YEWBI_120
+  - first:
+      213: 3764626832354501205
+    second: Pixel_Playing_Card_Set_YEWBI_121
+  - first:
+      213: 4181029714332673534
+    second: Pixel_Playing_Card_Set_YEWBI_122
+  - first:
+      213: 7246201444142587211
+    second: Pixel_Playing_Card_Set_YEWBI_123
+  - first:
+      213: -8367473830530013863
+    second: Pixel_Playing_Card_Set_YEWBI_124
+  - first:
+      213: 6215040262503001459
+    second: Pixel_Playing_Card_Set_YEWBI_125
+  - first:
+      213: 139527256166801937
+    second: Pixel_Playing_Card_Set_YEWBI_126
+  - first:
+      213: -8952013517630148145
+    second: Pixel_Playing_Card_Set_YEWBI_127
+  - first:
+      213: 2694598261783741487
+    second: Pixel_Playing_Card_Set_YEWBI_128
+  - first:
+      213: -3683687473941919485
+    second: Pixel_Playing_Card_Set_YEWBI_129
+  - first:
+      213: 3687141490404560017
+    second: Pixel_Playing_Card_Set_YEWBI_130
+  - first:
+      213: 1360025295058391478
+    second: Pixel_Playing_Card_Set_YEWBI_131
+  - first:
+      213: 5352469176151553160
+    second: Pixel_Playing_Card_Set_YEWBI_132
+  - first:
+      213: 6315323247001719273
+    second: Pixel_Playing_Card_Set_YEWBI_133
+  - first:
+      213: -3881014768427326298
+    second: Pixel_Playing_Card_Set_YEWBI_134
+  - first:
+      213: 4649533720305897552
+    second: Pixel_Playing_Card_Set_YEWBI_135
+  - first:
+      213: 2239350022935237789
+    second: Pixel_Playing_Card_Set_YEWBI_136
+  - first:
+      213: -8351559581729629936
+    second: Pixel_Playing_Card_Set_YEWBI_137
+  - first:
+      213: 7019373087684317050
+    second: Pixel_Playing_Card_Set_YEWBI_138
+  - first:
+      213: -8885715765863680811
+    second: Pixel_Playing_Card_Set_YEWBI_139
+  - first:
+      213: 88127704519934755
+    second: Pixel_Playing_Card_Set_YEWBI_140
+  - first:
+      213: -4743388074612600224
+    second: Pixel_Playing_Card_Set_YEWBI_141
+  - first:
+      213: -4438029821448532876
+    second: Pixel_Playing_Card_Set_YEWBI_142
+  - first:
+      213: 134102741940583216
+    second: Pixel_Playing_Card_Set_YEWBI_143
+  - first:
+      213: -7941457203244123741
+    second: Pixel_Playing_Card_Set_YEWBI_144
+  - first:
+      213: 3043627574377411296
+    second: Pixel_Playing_Card_Set_YEWBI_145
+  - first:
+      213: 1777401687487052944
+    second: Pixel_Playing_Card_Set_YEWBI_146
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6467653d0a02eb0800000000000000
+      internalID: -4746617177699367258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20541639ef2cbea47b4aad76b1808a05
+      internalID: -1364193956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_148
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a56986c8ee313b4cacba4bba235a44f
+      internalID: 35236854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_149
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76383be7e8d0d643a605e60c2f873c5
+      internalID: -1939302096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_150
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5621a2385e03d954c9134e64e4574f93
+      internalID: -1319145338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_151
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c44365f10dc114cbbf0223509cf67a
+      internalID: -1648350023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_152
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c5e8af78fb90a44b9f03d40cedd960
+      internalID: -2057470645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_153
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b7d0b4a11b9e94bb408938bc25443e
+      internalID: -1711698855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_154
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6966e5494af849d409d88f730cb0ac4f
+      internalID: 1300366650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_155
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad397b5b24fd874b96b65dcff27590e
+      internalID: -1312933136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_156
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbad12cedcb1a9d47be8780b40926b2a
+      internalID: 157370422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_157
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fd15fd9b105574ca3aaecfae096b28
+      internalID: 571959898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_158
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a81e52f6d0e1d244a19b829de04d14e
+      internalID: -1331634911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_159
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb92cd247625074db81f4ba921e5322
+      internalID: 2047870897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_160
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2340d4d37eb73e4383fbad6a18e621e
+      internalID: -23949703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_161
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e670a8def6d78d418f34be42bb65d05
+      internalID: -1575509812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_162
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2629878037543a48b57d4815f7891a9
+      internalID: -1075007142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_163
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1fc56423e7a6b4fbe9a30bd3aa9a6a
+      internalID: 864245125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_164
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14512da4f9872a644b5afe1e0318f16c
+      internalID: -1255661770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_165
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 288
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582fe7afc316f9047af50c8dda329327
+      internalID: -1028191285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_166
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa64c6ec00fc8d4bb642b2a863dc284
+      internalID: 497801746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_167
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f458b2522ae3b24c8f73cb3da6b045b
+      internalID: -1093785981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_168
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c982028dd97d64788393a40ec52823
+      internalID: 514703069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_169
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d539f4bd9befc74ca422d1cfab3857a
+      internalID: 2008052628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_170
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b463528f6f7d1b84cb44ed6ff4db93f8
+      internalID: 1349841994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_171
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63e0e23a29dc34419f5698bac6dbaf6
+      internalID: -1440241894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_172
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0523419d086e7e4fb9a1147a467b95f
+      internalID: -1192871418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_173
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4413a920c46c28f499df265734a454c6
+      internalID: -1377781362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_174
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06b9b533f7622341919c927f1f682ea
+      internalID: 1617742886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_175
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b523602cda3de35469ec8a2bfcab6318
+      internalID: -1498659549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_176
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dc2f3a77d72ac48965e41a75bf9bb6
+      internalID: -1318644478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_177
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51a39619b17678489f3c469fcbd1e4d
+      internalID: 1684891168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_178
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5e5b51328e8ca44a12bbdf373eb29a
+      internalID: -1684103697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_179
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5bf3f710946b04ab2cdfc71127729b
+      internalID: 747533710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_180
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59994c27a2230264299e506ffe1db0d0
+      internalID: -1707276698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_181
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299a8b34010130249bbe176422e4a4d1
+      internalID: 1316880557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_182
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f0347752c03fd4895dd2a070b988a3
+      internalID: 1980556325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_183
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b057e2cf5caacdf4d8a7cb627427e9f1
+      internalID: -68898236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_184
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7acc08ae52acd4297e806035df22ab
+      internalID: -2076369037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_185
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338cd2edc19586c4795e073614c57c0c
+      internalID: 2015615481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_186
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21fe7eade505ee459d4534d4fc39463
+      internalID: -1512207559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_187
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42667078b7ee65e45aa4f565be7bac29
+      internalID: -1357430555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_188
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e26b8c486b7f554fb96c3f4034f84be
+      internalID: -1860016415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_189
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10817bffab78f8049865d3c63a1e5226
+      internalID: 717526137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_190
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83cd149797711a42afeb0ca53ff4941
+      internalID: 390488295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_191
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641198801802bc04893bdaf3f8158f76
+      internalID: 1140029200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_192
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95564671a3883145aeff53e2485588a
+      internalID: 1759896443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_193
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7b09dd6c2078c46bcfd0545a8e77ae
+      internalID: -1218220471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_194
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf95ce2bbe6cc14aaab5759f4f91f28
+      internalID: -2036677414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_195
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6413c2a4d3e5048baf3046a405e733
+      internalID: 2098295121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_196
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c830a5fbdd461448d5d30958b4ae0f
+      internalID: -1540847105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_197
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248fcfb6ed6490b47bbf443d509869f8
+      internalID: 854482594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_198
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7510733d109fae649a3b8206b9501fe8
+      internalID: -452992300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel_Playing_Card_Set_YEWBI_199
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9b3116bd7c69e469bc4248a3580a7c
+      internalID: -1539262881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7a6bfb5abe48ff24189356f8e466bd36
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pixel_Playing_Card_Set_YEWBI_0: -4746617177699367258
+      Pixel_Playing_Card_Set_YEWBI_1: 7736087899551737141
+      Pixel_Playing_Card_Set_YEWBI_10: 2092870247132860893
+      Pixel_Playing_Card_Set_YEWBI_100: 3307887405244399967
+      Pixel_Playing_Card_Set_YEWBI_101: 2618259813587388960
+      Pixel_Playing_Card_Set_YEWBI_102: -5680167676053422992
+      Pixel_Playing_Card_Set_YEWBI_103: -1680878987440639688
+      Pixel_Playing_Card_Set_YEWBI_104: -435923515984081919
+      Pixel_Playing_Card_Set_YEWBI_105: -3563929361784896593
+      Pixel_Playing_Card_Set_YEWBI_106: -5244700284618345529
+      Pixel_Playing_Card_Set_YEWBI_107: 1378946856472504954
+      Pixel_Playing_Card_Set_YEWBI_108: 5041789401780620247
+      Pixel_Playing_Card_Set_YEWBI_109: 2638822355059797377
+      Pixel_Playing_Card_Set_YEWBI_11: 9113082081996488241
+      Pixel_Playing_Card_Set_YEWBI_110: -581937690353111185
+      Pixel_Playing_Card_Set_YEWBI_111: -6251637361538472244
+      Pixel_Playing_Card_Set_YEWBI_112: -8725719873663739542
+      Pixel_Playing_Card_Set_YEWBI_113: 4850154094266678325
+      Pixel_Playing_Card_Set_YEWBI_114: 6181881515630379133
+      Pixel_Playing_Card_Set_YEWBI_115: -7612539528817894972
+      Pixel_Playing_Card_Set_YEWBI_116: 8554566050008001409
+      Pixel_Playing_Card_Set_YEWBI_117: -4554619566658755498
+      Pixel_Playing_Card_Set_YEWBI_118: 3172733448893375477
+      Pixel_Playing_Card_Set_YEWBI_119: -2012742010790303350
+      Pixel_Playing_Card_Set_YEWBI_12: -2150996347887062589
+      Pixel_Playing_Card_Set_YEWBI_120: 5715263802202612197
+      Pixel_Playing_Card_Set_YEWBI_121: 3764626832354501205
+      Pixel_Playing_Card_Set_YEWBI_122: 4181029714332673534
+      Pixel_Playing_Card_Set_YEWBI_123: 7246201444142587211
+      Pixel_Playing_Card_Set_YEWBI_124: -8367473830530013863
+      Pixel_Playing_Card_Set_YEWBI_125: 6215040262503001459
+      Pixel_Playing_Card_Set_YEWBI_126: 139527256166801937
+      Pixel_Playing_Card_Set_YEWBI_127: -8952013517630148145
+      Pixel_Playing_Card_Set_YEWBI_128: 2694598261783741487
+      Pixel_Playing_Card_Set_YEWBI_129: -3683687473941919485
+      Pixel_Playing_Card_Set_YEWBI_13: -4475011688944804377
+      Pixel_Playing_Card_Set_YEWBI_130: 3687141490404560017
+      Pixel_Playing_Card_Set_YEWBI_131: 1360025295058391478
+      Pixel_Playing_Card_Set_YEWBI_132: 5352469176151553160
+      Pixel_Playing_Card_Set_YEWBI_133: 6315323247001719273
+      Pixel_Playing_Card_Set_YEWBI_134: -3881014768427326298
+      Pixel_Playing_Card_Set_YEWBI_135: 4649533720305897552
+      Pixel_Playing_Card_Set_YEWBI_136: 2239350022935237789
+      Pixel_Playing_Card_Set_YEWBI_137: -8351559581729629936
+      Pixel_Playing_Card_Set_YEWBI_138: 7019373087684317050
+      Pixel_Playing_Card_Set_YEWBI_139: -8885715765863680811
+      Pixel_Playing_Card_Set_YEWBI_14: 5271868941088925202
+      Pixel_Playing_Card_Set_YEWBI_140: 88127704519934755
+      Pixel_Playing_Card_Set_YEWBI_141: -4743388074612600224
+      Pixel_Playing_Card_Set_YEWBI_142: -4438029821448532876
+      Pixel_Playing_Card_Set_YEWBI_143: 134102741940583216
+      Pixel_Playing_Card_Set_YEWBI_144: -7941457203244123741
+      Pixel_Playing_Card_Set_YEWBI_145: 3043627574377411296
+      Pixel_Playing_Card_Set_YEWBI_146: 1777401687487052944
+      Pixel_Playing_Card_Set_YEWBI_147: -1364193956
+      Pixel_Playing_Card_Set_YEWBI_148: 35236854
+      Pixel_Playing_Card_Set_YEWBI_149: -1939302096
+      Pixel_Playing_Card_Set_YEWBI_15: 1427165119302986621
+      Pixel_Playing_Card_Set_YEWBI_150: -1319145338
+      Pixel_Playing_Card_Set_YEWBI_151: -1648350023
+      Pixel_Playing_Card_Set_YEWBI_152: -2057470645
+      Pixel_Playing_Card_Set_YEWBI_153: -1711698855
+      Pixel_Playing_Card_Set_YEWBI_154: 1300366650
+      Pixel_Playing_Card_Set_YEWBI_155: -1312933136
+      Pixel_Playing_Card_Set_YEWBI_156: 157370422
+      Pixel_Playing_Card_Set_YEWBI_157: 571959898
+      Pixel_Playing_Card_Set_YEWBI_158: -1331634911
+      Pixel_Playing_Card_Set_YEWBI_159: 2047870897
+      Pixel_Playing_Card_Set_YEWBI_16: -962558125968218994
+      Pixel_Playing_Card_Set_YEWBI_160: -23949703
+      Pixel_Playing_Card_Set_YEWBI_161: -1575509812
+      Pixel_Playing_Card_Set_YEWBI_162: -1075007142
+      Pixel_Playing_Card_Set_YEWBI_163: 864245125
+      Pixel_Playing_Card_Set_YEWBI_164: -1255661770
+      Pixel_Playing_Card_Set_YEWBI_165: -1028191285
+      Pixel_Playing_Card_Set_YEWBI_166: 497801746
+      Pixel_Playing_Card_Set_YEWBI_167: -1093785981
+      Pixel_Playing_Card_Set_YEWBI_168: 514703069
+      Pixel_Playing_Card_Set_YEWBI_169: 2008052628
+      Pixel_Playing_Card_Set_YEWBI_17: -5472242294706794384
+      Pixel_Playing_Card_Set_YEWBI_170: 1349841994
+      Pixel_Playing_Card_Set_YEWBI_171: -1440241894
+      Pixel_Playing_Card_Set_YEWBI_172: -1192871418
+      Pixel_Playing_Card_Set_YEWBI_173: -1377781362
+      Pixel_Playing_Card_Set_YEWBI_174: 1617742886
+      Pixel_Playing_Card_Set_YEWBI_175: -1498659549
+      Pixel_Playing_Card_Set_YEWBI_176: -1318644478
+      Pixel_Playing_Card_Set_YEWBI_177: 1684891168
+      Pixel_Playing_Card_Set_YEWBI_178: -1684103697
+      Pixel_Playing_Card_Set_YEWBI_179: 747533710
+      Pixel_Playing_Card_Set_YEWBI_18: 3641042649576646338
+      Pixel_Playing_Card_Set_YEWBI_180: -1707276698
+      Pixel_Playing_Card_Set_YEWBI_181: 1316880557
+      Pixel_Playing_Card_Set_YEWBI_182: 1980556325
+      Pixel_Playing_Card_Set_YEWBI_183: -68898236
+      Pixel_Playing_Card_Set_YEWBI_184: -2076369037
+      Pixel_Playing_Card_Set_YEWBI_185: 2015615481
+      Pixel_Playing_Card_Set_YEWBI_186: -1512207559
+      Pixel_Playing_Card_Set_YEWBI_187: -1357430555
+      Pixel_Playing_Card_Set_YEWBI_188: -1860016415
+      Pixel_Playing_Card_Set_YEWBI_189: 717526137
+      Pixel_Playing_Card_Set_YEWBI_19: -710916111442478799
+      Pixel_Playing_Card_Set_YEWBI_190: 390488295
+      Pixel_Playing_Card_Set_YEWBI_191: 1140029200
+      Pixel_Playing_Card_Set_YEWBI_192: 1759896443
+      Pixel_Playing_Card_Set_YEWBI_193: -1218220471
+      Pixel_Playing_Card_Set_YEWBI_194: -2036677414
+      Pixel_Playing_Card_Set_YEWBI_195: 2098295121
+      Pixel_Playing_Card_Set_YEWBI_196: -1540847105
+      Pixel_Playing_Card_Set_YEWBI_197: 854482594
+      Pixel_Playing_Card_Set_YEWBI_198: -452992300
+      Pixel_Playing_Card_Set_YEWBI_199: -1539262881
+      Pixel_Playing_Card_Set_YEWBI_2: 6922579392037629616
+      Pixel_Playing_Card_Set_YEWBI_20: -7582365030168357143
+      Pixel_Playing_Card_Set_YEWBI_200: -1721831783
+      Pixel_Playing_Card_Set_YEWBI_21: 3012658948920119188
+      Pixel_Playing_Card_Set_YEWBI_22: 456890751700958291
+      Pixel_Playing_Card_Set_YEWBI_23: 7878970206506326572
+      Pixel_Playing_Card_Set_YEWBI_24: 1329286475252057070
+      Pixel_Playing_Card_Set_YEWBI_25: 5754787257638594455
+      Pixel_Playing_Card_Set_YEWBI_26: 8376582362013794959
+      Pixel_Playing_Card_Set_YEWBI_27: -7526535015233578433
+      Pixel_Playing_Card_Set_YEWBI_28: 8358517980632561411
+      Pixel_Playing_Card_Set_YEWBI_29: -8060045464975383923
+      Pixel_Playing_Card_Set_YEWBI_3: -4950636640756004722
+      Pixel_Playing_Card_Set_YEWBI_30: 729808012838248431
+      Pixel_Playing_Card_Set_YEWBI_31: -973846884162683471
+      Pixel_Playing_Card_Set_YEWBI_32: -3268263968831814112
+      Pixel_Playing_Card_Set_YEWBI_33: -6205709881528731979
+      Pixel_Playing_Card_Set_YEWBI_34: 4021890802298720475
+      Pixel_Playing_Card_Set_YEWBI_35: -888387700281608810
+      Pixel_Playing_Card_Set_YEWBI_36: 5348955873971924356
+      Pixel_Playing_Card_Set_YEWBI_37: -5710760923306769560
+      Pixel_Playing_Card_Set_YEWBI_38: 3854615729700734223
+      Pixel_Playing_Card_Set_YEWBI_39: -2716816830189456068
+      Pixel_Playing_Card_Set_YEWBI_4: 1172094869006607379
+      Pixel_Playing_Card_Set_YEWBI_40: 1364680607883002165
+      Pixel_Playing_Card_Set_YEWBI_41: 938587744128508835
+      Pixel_Playing_Card_Set_YEWBI_42: 6134488208781438789
+      Pixel_Playing_Card_Set_YEWBI_43: -7590119857103633473
+      Pixel_Playing_Card_Set_YEWBI_44: 7183212610695410157
+      Pixel_Playing_Card_Set_YEWBI_45: -9100732175615492048
+      Pixel_Playing_Card_Set_YEWBI_46: 608650173416148198
+      Pixel_Playing_Card_Set_YEWBI_47: 8399853209277141289
+      Pixel_Playing_Card_Set_YEWBI_48: 3034453222385523082
+      Pixel_Playing_Card_Set_YEWBI_49: -7685135165453013972
+      Pixel_Playing_Card_Set_YEWBI_5: -5266586688156633553
+      Pixel_Playing_Card_Set_YEWBI_50: -8364502249927388196
+      Pixel_Playing_Card_Set_YEWBI_51: -1760275946413999748
+      Pixel_Playing_Card_Set_YEWBI_52: 8347445952221997795
+      Pixel_Playing_Card_Set_YEWBI_53: -3992298053170073504
+      Pixel_Playing_Card_Set_YEWBI_54: -3205089102125769902
+      Pixel_Playing_Card_Set_YEWBI_55: -4345166876725890319
+      Pixel_Playing_Card_Set_YEWBI_56: -4370979493280105301
+      Pixel_Playing_Card_Set_YEWBI_57: 7171958052718421976
+      Pixel_Playing_Card_Set_YEWBI_58: -1747660843948176541
+      Pixel_Playing_Card_Set_YEWBI_59: -7307236446756979426
+      Pixel_Playing_Card_Set_YEWBI_6: -1907460099371790605
+      Pixel_Playing_Card_Set_YEWBI_60: 8264282391619018936
+      Pixel_Playing_Card_Set_YEWBI_61: 6227155666894139425
+      Pixel_Playing_Card_Set_YEWBI_62: -5833554609656376842
+      Pixel_Playing_Card_Set_YEWBI_63: 6904693132478155141
+      Pixel_Playing_Card_Set_YEWBI_64: -2856818307485077169
+      Pixel_Playing_Card_Set_YEWBI_65: -8676959868023332931
+      Pixel_Playing_Card_Set_YEWBI_66: 4885827094805752135
+      Pixel_Playing_Card_Set_YEWBI_67: -6491246083204124512
+      Pixel_Playing_Card_Set_YEWBI_68: -4706336999719451817
+      Pixel_Playing_Card_Set_YEWBI_69: -5487611478532291067
+      Pixel_Playing_Card_Set_YEWBI_7: -3245581003379781514
+      Pixel_Playing_Card_Set_YEWBI_70: 1279398622795060096
+      Pixel_Playing_Card_Set_YEWBI_71: -1378823400977321181
+      Pixel_Playing_Card_Set_YEWBI_72: 2998295487419041867
+      Pixel_Playing_Card_Set_YEWBI_73: 5019322233856481424
+      Pixel_Playing_Card_Set_YEWBI_74: 4298520882563472837
+      Pixel_Playing_Card_Set_YEWBI_75: 4043080683307206147
+      Pixel_Playing_Card_Set_YEWBI_76: 2189422532755481668
+      Pixel_Playing_Card_Set_YEWBI_77: 2568339234681631688
+      Pixel_Playing_Card_Set_YEWBI_78: 1415858453592312445
+      Pixel_Playing_Card_Set_YEWBI_79: -1187165662814705750
+      Pixel_Playing_Card_Set_YEWBI_8: -4998492722617580596
+      Pixel_Playing_Card_Set_YEWBI_80: -4467173231201179430
+      Pixel_Playing_Card_Set_YEWBI_81: -7162691037435272042
+      Pixel_Playing_Card_Set_YEWBI_82: 8042161573984862281
+      Pixel_Playing_Card_Set_YEWBI_83: 4433533012783472602
+      Pixel_Playing_Card_Set_YEWBI_84: 7188306030593373633
+      Pixel_Playing_Card_Set_YEWBI_85: 691473081025225483
+      Pixel_Playing_Card_Set_YEWBI_86: 8890682821094336015
+      Pixel_Playing_Card_Set_YEWBI_87: -3676493097693961295
+      Pixel_Playing_Card_Set_YEWBI_88: -5532539413468487188
+      Pixel_Playing_Card_Set_YEWBI_89: -7101714950005139588
+      Pixel_Playing_Card_Set_YEWBI_9: 7860923234469106263
+      Pixel_Playing_Card_Set_YEWBI_90: 1310558369987463217
+      Pixel_Playing_Card_Set_YEWBI_91: -7954978688365567743
+      Pixel_Playing_Card_Set_YEWBI_92: -5207617511001853338
+      Pixel_Playing_Card_Set_YEWBI_93: 946660065499375974
+      Pixel_Playing_Card_Set_YEWBI_94: -3402565450099270161
+      Pixel_Playing_Card_Set_YEWBI_95: -6620362819200582786
+      Pixel_Playing_Card_Set_YEWBI_96: 61256511282366416
+      Pixel_Playing_Card_Set_YEWBI_97: 6065156495320900820
+      Pixel_Playing_Card_Set_YEWBI_98: 504456311672009261
+      Pixel_Playing_Card_Set_YEWBI_99: 1050754654527278338
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
